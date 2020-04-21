@@ -41,12 +41,3 @@ parameters:
 return: map[string]interface{}
 description: returns a map with the facility associated to the specific device
 ```
-
-
-```
-method: "nayar.net4machines.facilities.element.stats"
-parameters:
-    {}
-return: map[string]interface{}
-description: returns a map with the summary of the total elements
-```
