@@ -1,5 +1,6 @@
 # Smart Control API
-Documentation for the Nayar Systems Smart Control api 
+Documentation for the Nayar Systems Smart Control API
+
 
 ## Index
 
