@@ -1,3 +1,6 @@
+# Events
+
+
 ```
 method: "nayar.net4machines.events.get"
 parameters:

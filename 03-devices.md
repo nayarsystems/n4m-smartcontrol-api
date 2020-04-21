@@ -1,3 +1,5 @@
+# Devices
+
 ```
 method: "nayar.net4machines.permissions.device.rpc": true
 parameters:
