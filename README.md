@@ -1,4 +1,4 @@
-# n4m-smartcontrol-api
+# Smart Control API
 Documentation for the Nayar Systems Smart Control api 
 
 ## Index

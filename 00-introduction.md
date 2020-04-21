@@ -1,4 +1,4 @@
-# Smart Control Platform API
+# Introduction
 
 This is an example of request to our API for Smart Control:
 
