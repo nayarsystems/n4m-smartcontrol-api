@@ -42,6 +42,8 @@ return: map[string]interface{}
 description: returns a map with the summary of every facility owned by the user
 ```
 
+
+```
 method: "nayar.net4machines.facilities.element.stats"
 parameters:
     {
@@ -49,3 +51,4 @@ parameters:
     }
 return: map[string]interface{}
 description: returns a map with the summary of the total elements
+```
