@@ -14,6 +14,15 @@ description: returns a list of the owner facilities, can be paged, if "id" is pr
 ```
 
 
+### Usage examples
+
+A basic example of using the function that returns the facilities of an owner would be with the following command:
+
+```
+curl -X POST --data '{"jsonrpc":"2.0","id":1,"method": "task.push", "params":{"method":"nayar.net4machines.facilities.get","params":true}}' path -u user:password
+```
+
+
 ```
 method: "nayar.net4machines.facilities.get_tree"
 parameters:
