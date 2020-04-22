@@ -18,9 +18,15 @@ parameters:
     {
         "id" <string>: Facility ID
     }
-return: map[string]interface{}
+return: map[string]interface{
+    "forest": Multiple facility trees of the instalation
+    "unlinked": Unlinked elements of the instalation
+}
 description: returns a map with the forest representation of the facility
 ```
+
+An example of facility tree would be the following:
+![Facility tree](/images/facility-tree.png "Facility tree t 1")
 
 
 ```
