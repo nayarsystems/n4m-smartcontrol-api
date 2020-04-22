@@ -9,11 +9,11 @@ curl -X POST --data '{"jsonrpc":"2.0","id":1,"method": "task.push", "params":{"m
 ```
 
 
-Also available an access with API_KEY
+The access shown above works with basic auth, but we also have support for the use of API_KEYS.
+For more information, about access using this method, you must contact Nayar Systems technical department.
 
 
-The common objects of our API are listed below:
-
+Our API is based on various types of objects, the common objects of our API are listed below:
 
 
 ```
