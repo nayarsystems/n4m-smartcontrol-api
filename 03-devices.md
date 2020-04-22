@@ -1,3 +1,5 @@
+[Index](./README.md)
+
 # Devices
 
 
@@ -18,3 +20,6 @@ parameters:
 return: map[string]interface{}
 description: this command allows executing actions from the GSR device
 ```
+
+
+Next: [Devices](./03-devices.md)

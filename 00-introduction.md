@@ -1,3 +1,5 @@
+[Index](./README.md)
+
 # Introduction
 
 This is an example of request to our API for Smart Control:
@@ -84,3 +86,5 @@ type Alert struct {
 	Content  AlertContent
 }
 ```
+
+Next: [Facilities](./02-facilities.md)
